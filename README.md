@@ -1,0 +1,1 @@
+The Qualtrics surveys analyzed in these codes ask patients questions about their anxiety, depression, and ptsd symptoms. The codes are able to analyze how severe their condition is by reading the survey.
